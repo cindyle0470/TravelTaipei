@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TravelTaipei</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news" translatable="false">最新消息</string>
+    <string name="travel_Taipei" translatable="false">悠遊台北</string>
+    <string name="zh_cn">简体中文</string>
+    <string name="en">English</string>
+    <string name="ja">日本語</string>
+    <string name="ko">한국어</string>
+    <string name="es">Español</string>
+    <string name="th">แบบไทย</string>
+    <string name="id">bahasa Indonesia</string>
+    <string name="vi">Tiếng Việt</string>
+    <string name="zh_tw">繁體中文</string>
+    <string name="no_info_yet">暫未提供資料</string>
+</resources>

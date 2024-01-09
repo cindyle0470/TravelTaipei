@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TravelTaipei</string>
+    <string name="news" translatable="false">ข่าวล่าสุด</string>
+    <string name="travel_Taipei" translatable="false">การเดินทางในไทเป</string>
+    <string name="no_info_yet">ยังไม่มีข้อมูลให้</string>
+</resources>

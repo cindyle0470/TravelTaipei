@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/news"
+        android:id="@+id/nav1"
+        android:icon="@drawable/news" />
+
+    <item android:title="@string/travel_Taipei"
+        android:id="@+id/nav2"
+        android:icon="@drawable/attractions" />
+</menu>

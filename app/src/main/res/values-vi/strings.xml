@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TravelTaipei</string>
+    <string name="news" translatable="false">tin mới nhất</string>
+    <string name="travel_Taipei" translatable="false">Du lịch Đài Bắc</string>
+    <string name="no_info_yet">Chưa có thông tin nào được cung cấp</string>
+</resources>
